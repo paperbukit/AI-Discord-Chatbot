@@ -1,0 +1,4 @@
+python -m venv venv
+.\venv\Scripts\activate
+pip install discord.py requests
+python bot.py
